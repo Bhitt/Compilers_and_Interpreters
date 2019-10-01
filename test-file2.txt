@@ -1,0 +1,31 @@
+class poop {
+	void tickler(String[] args) {
+		int whette_123 = 0x420;
+		double fart = 200.12E+12;
+		if(whette_123 == fart) {
+			println("Whette Fart");
+		}
+		boolean bowl = true false;
+		break
+		analyzer
+		xylophone xylo
+		xylo
+		boolshevic bool = true false;
+		/* analyzer */
+		/* DOOBIES #1A Fall Semester2019CS 4110compiler project #1A  lexical an
+	are cool */
+	/* Fall Semester2019CS 4110compiler project #1A lexical analyzer */
+	println ("iterative result of 10! is ", total);
+		class
+		double
+		else
+		extend
+		for(int i = 0; i  < > <= >= == 12; i+1) {
+			implements int interface new newarray null println("") readln() return
+			sting this true void while
+		}
+		+  - * / % != && || ! = ; , . ( ) [ ]
+	}
+	/* DOOBIES 
+	are cool */
+}
