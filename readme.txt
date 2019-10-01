@@ -1,5 +1,5 @@
 # LexAnalyzer
-
+@authors Branden Hitt, Jenson Tran, Grant Nasution
 This a program that will perform lexical analysis tokenizing and populating a trie table given a toy program
 
 ##Installation
